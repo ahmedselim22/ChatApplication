@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815189445882",
+    "project_id": "chat-application-961e0",
+    "storage_bucket": "chat-application-961e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815189445882:android:fed71e58a07dc8bb490d43",
+        "android_client_info": {
+          "package_name": "com.selim.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPu5U0W9xxDFXQ-zXVt5g69RnWCB5DT6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
